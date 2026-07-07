@@ -1,16 +1,24 @@
-# React + Vite
+# My Creative Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Đây là một trang web cá nhân được thiết kế để giới thiệu toàn bộ những dự án mình đã xây dựng, từ những ý tưởng nhỏ cho đến những sản phẩm có tính sáng tạo cao.
 
-Currently, two official plugins are available:
+Trang này được tạo ra với một phong cách riêng, vừa hiện đại vừa ấm áp, để mỗi công việc đều có một không gian để được nhìn thấy và được nhớ đến.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Điều gì khiến trang này đặc biệt?
 
-## React Compiler
+- Một giao diện nổi bật và dễ nhớ
+- Một nơi để tập hợp tất cả các project theo cách gọn gàng
+- Một trải nghiệm đọc vừa mượt mà vừa có cảm giác nghệ thuật
+- Dễ dàng thêm mới các dự án trong tương lai
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Những gì bạn sẽ thấy ở đây
 
-## Expanding the ESLint configuration
+- Phần mở đầu mạnh mẽ và có cá tính
+- Các dự án được sắp xếp rõ ràng và đẹp mắt
+- Một không gian giúp người xem hiểu được hướng đi sáng tạo của bạn
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Mục đích của trang này
+
+Đây không chỉ là một portfolio thông thường. Đây là một cách để kể câu chuyện về việc mình đã làm, điều mình thích, và những gì mình muốn tiếp tục tạo ra.
+
+Nếu bạn muốn khám phá thêm hoặc muốn chia sẻ một dự án mới, hãy mở trang này và cùng nhìn lại hành trình sáng tạo của mình.
