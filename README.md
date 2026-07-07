@@ -1,24 +1,26 @@
 # My Creative Portfolio
 
-Đây là một trang web cá nhân được thiết kế để giới thiệu toàn bộ những dự án mình đã xây dựng, từ những ý tưởng nhỏ cho đến những sản phẩm có tính sáng tạo cao.
+Live site: https://baochau2205.github.io/react-webpage/
 
-Trang này được tạo ra với một phong cách riêng, vừa hiện đại vừa ấm áp, để mỗi công việc đều có một không gian để được nhìn thấy và được nhớ đến.
+This is a personal website designed to showcase the projects I have built, from simple ideas to more creative and meaningful experiences.
 
-## Điều gì khiến trang này đặc biệt?
+It was created with a distinctive style that feels modern, warm, and memorable, giving each project its own space to be seen and appreciated.
 
-- Một giao diện nổi bật và dễ nhớ
-- Một nơi để tập hợp tất cả các project theo cách gọn gàng
-- Một trải nghiệm đọc vừa mượt mà vừa có cảm giác nghệ thuật
-- Dễ dàng thêm mới các dự án trong tương lai
+## What makes this portfolio special?
 
-## Những gì bạn sẽ thấy ở đây
+- A striking and memorable visual experience
+- A clean place to collect all your projects in one space
+- A smooth and artistic reading experience
+- A simple way to keep adding new work in the future
 
-- Phần mở đầu mạnh mẽ và có cá tính
-- Các dự án được sắp xếp rõ ràng và đẹp mắt
-- Một không gian giúp người xem hiểu được hướng đi sáng tạo của bạn
+## What you will find here
 
-## Mục đích của trang này
+- A bold and personal introduction
+- Projects arranged clearly and beautifully
+- A space that reflects your creative direction and growth
 
-Đây không chỉ là một portfolio thông thường. Đây là một cách để kể câu chuyện về việc mình đã làm, điều mình thích, và những gì mình muốn tiếp tục tạo ra.
+## Purpose of this page
 
-Nếu bạn muốn khám phá thêm hoặc muốn chia sẻ một dự án mới, hãy mở trang này và cùng nhìn lại hành trình sáng tạo của mình.
+This is more than a simple portfolio. It is a way to tell the story of what you have made, what you care about, and what you want to continue creating.
+
+If you want to explore more or share a new project, this page is a beautiful place to look back on your creative journey.
